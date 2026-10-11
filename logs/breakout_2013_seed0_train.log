@@ -1,0 +1,12 @@
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+[Breakout] frames=   40,000  episodes=   57  eps=0.820  eval_score=   0.33  avg_maxQ=-0.0023       18s
+[Breakout] frames=   80,000  episodes=  113  eps=0.640  eval_score=   1.33  avg_maxQ=1.2148      267s
+[Breakout] frames=  120,000  episodes=  165  eps=0.460  eval_score=   0.00  avg_maxQ=1.0991      513s
+[Breakout] frames=  160,000  episodes=  215  eps=0.280  eval_score=   9.67  avg_maxQ=1.7294      758s
+[Breakout] frames=  200,000  episodes=  264  eps=0.100  eval_score=  11.00  avg_maxQ=1.0729     1008s
+[Breakout] frames=  240,000  episodes=  309  eps=0.100  eval_score=   1.00  avg_maxQ=0.9615     1256s
+[Breakout] frames=  280,000  episodes=  351  eps=0.100  eval_score=   0.33  avg_maxQ=1.1991     1504s
+[Breakout] frames=  320,000  episodes=  399  eps=0.100  eval_score=   9.67  avg_maxQ=0.9292     1757s
+[Breakout] frames=  360,000  episodes=  442  eps=0.100  eval_score=   1.00  avg_maxQ=0.9655     1999s
+[Breakout] frames=  400,000  episodes=  486  eps=0.100  eval_score=   0.00  avg_maxQ=0.8866     2240s

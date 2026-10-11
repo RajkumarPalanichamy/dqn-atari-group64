@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.16, pytest-9.1.1, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/claude/dqn-atari-group64
+plugins: anyio-4.15.1
+collecting ... collected 5 items
+
+tests/test_dqn.py::test_preprocess_shape PASSED                          [ 20%]
+tests/test_dqn.py::test_network_matches_paper PASSED                     [ 40%]
+tests/test_dqn.py::test_epsilon_schedule PASSED                          [ 60%]
+tests/test_dqn.py::test_replay_zero_pads_across_episodes PASSED          [ 80%]
+tests/test_dqn.py::test_terminal_target_is_reward PASSED                 [100%]
+
+============================== 5 passed in 3.35s ===============================

@@ -1,0 +1,6 @@
+replay=True   seed=0  episodes= 297  mean return (last 20) =  267.8
+replay=True   seed=1  episodes= 274  mean return (last 20) =  233.8
+replay=True   seed=2  episodes= 298  mean return (last 20) =  245.0
+replay=False  seed=0  episodes= 881  mean return (last 20) =   84.0
+replay=False  seed=1  episodes= 930  mean return (last 20) =   74.7
+replay=False  seed=2  episodes=1231  mean return (last 20) =   41.5

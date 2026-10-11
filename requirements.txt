@@ -1,0 +1,9 @@
+torch>=2.0
+gymnasium>=1.0
+ale-py>=0.9          # includes the Atari ROMs
+opencv-python
+numpy
+pandas
+matplotlib
+pillow
+pytest
